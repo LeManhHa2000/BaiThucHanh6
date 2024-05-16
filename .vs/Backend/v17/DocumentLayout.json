@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Thuctap2024\\ThucHanh6\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94BCDC48-D59D-40A9-82DD-8291D823852A}|Backend\\Backend.csproj|d:\\thuctap2024\\thuchanh6\\backend\\backend\\models\\teacherinclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BCDC48-D59D-40A9-82DD-8291D823852A}|Backend\\Backend.csproj|solutionrelative:backend\\models\\teacherinclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BCDC48-D59D-40A9-82DD-8291D823852A}|Backend\\Backend.csproj|d:\\thuctap2024\\thuchanh6\\backend\\backend\\models\\studentinclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BCDC48-D59D-40A9-82DD-8291D823852A}|Backend\\Backend.csproj|solutionrelative:backend\\models\\studentinclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BCDC48-D59D-40A9-82DD-8291D823852A}|Backend\\Backend.csproj|d:\\thuctap2024\\thuchanh6\\backend\\backend\\controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BCDC48-D59D-40A9-82DD-8291D823852A}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BCDC48-D59D-40A9-82DD-8291D823852A}|Backend\\Backend.csproj|d:\\thuctap2024\\thuchanh6\\backend\\backend\\service\\classs\\iclassservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BCDC48-D59D-40A9-82DD-8291D823852A}|Backend\\Backend.csproj|solutionrelative:backend\\service\\classs\\iclassservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BCDC48-D59D-40A9-82DD-8291D823852A}|Backend\\Backend.csproj|d:\\thuctap2024\\thuchanh6\\backend\\backend\\service\\studentinclasss\\studentinclassservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BCDC48-D59D-40A9-82DD-8291D823852A}|Backend\\Backend.csproj|solutionrelative:backend\\service\\studentinclasss\\studentinclassservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BCDC48-D59D-40A9-82DD-8291D823852A}|Backend\\Backend.csproj|d:\\thuctap2024\\thuchanh6\\backend\\backend\\service\\studentinclasss\\istudentinclassservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BCDC48-D59D-40A9-82DD-8291D823852A}|Backend\\Backend.csproj|solutionrelative:backend\\service\\studentinclasss\\istudentinclassservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeacherInClass.cs",
+              "DocumentMoniker": "D:\\Thuctap2024\\ThucHanh6\\Backend\\Backend\\Models\\TeacherInClass.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\TeacherInClass.cs",
+              "ToolTip": "D:\\Thuctap2024\\ThucHanh6\\Backend\\Backend\\Models\\TeacherInClass.cs",
+              "RelativeToolTip": "Backend\\Models\\TeacherInClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:33:39.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentInClass.cs",
+              "DocumentMoniker": "D:\\Thuctap2024\\ThucHanh6\\Backend\\Backend\\Models\\StudentInClass.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\StudentInClass.cs",
+              "ToolTip": "D:\\Thuctap2024\\ThucHanh6\\Backend\\Backend\\Models\\StudentInClass.cs",
+              "RelativeToolTip": "Backend\\Models\\StudentInClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:30:00.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassesController.cs",
+              "DocumentMoniker": "D:\\Thuctap2024\\ThucHanh6\\Backend\\Backend\\Controllers\\ClassesController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\ClassesController.cs",
+              "ToolTip": "D:\\Thuctap2024\\ThucHanh6\\Backend\\Backend\\Controllers\\ClassesController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\ClassesController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:16:50.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IClassService.cs",
+              "DocumentMoniker": "D:\\Thuctap2024\\ThucHanh6\\Backend\\Backend\\Service\\Classs\\IClassService.cs",
+              "RelativeDocumentMoniker": "Backend\\Service\\Classs\\IClassService.cs",
+              "ToolTip": "D:\\Thuctap2024\\ThucHanh6\\Backend\\Backend\\Service\\Classs\\IClassService.cs",
+              "RelativeToolTip": "Backend\\Service\\Classs\\IClassService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:16:30.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentInClassService.cs",
+              "DocumentMoniker": "D:\\Thuctap2024\\ThucHanh6\\Backend\\Backend\\Service\\StudentInClasss\\StudentInClassService.cs",
+              "RelativeDocumentMoniker": "Backend\\Service\\StudentInClasss\\StudentInClassService.cs",
+              "ToolTip": "D:\\Thuctap2024\\ThucHanh6\\Backend\\Backend\\Service\\StudentInClasss\\StudentInClassService.cs",
+              "RelativeToolTip": "Backend\\Service\\StudentInClasss\\StudentInClassService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwCIAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T07:39:13.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStudentInClassService.cs",
+              "DocumentMoniker": "D:\\Thuctap2024\\ThucHanh6\\Backend\\Backend\\Service\\StudentInClasss\\IStudentInClassService.cs",
+              "RelativeDocumentMoniker": "Backend\\Service\\StudentInClasss\\IStudentInClassService.cs",
+              "ToolTip": "D:\\Thuctap2024\\ThucHanh6\\Backend\\Backend\\Service\\StudentInClasss\\IStudentInClassService.cs",
+              "RelativeToolTip": "Backend\\Service\\StudentInClasss\\IStudentInClassService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T07:39:00.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
